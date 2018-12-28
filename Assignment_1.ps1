@@ -1,6 +1,5 @@
 ﻿
-function Brute-Force-Basic-Authentication
-{
+function Brute-Force-Basic-Authentication{
 
 <#
 
@@ -14,10 +13,10 @@ The script is designed to Try list of usernames and list of passwords in Basic A
 The IP or IP address parameter are used to connect to when using the -IP switch.
 
 .PARAMETER Port
-Default port is 80, you can change it useing -Port.
+Default port is 80.
 
 .PARAMETER Protocol
-The protocolto be used, Deafult is HTTP.
+The protocolto be used.
 
 .PARAMETER UserList
 List of Usernames to use in Brute forcing.
@@ -40,7 +39,7 @@ BLOGSPOT LINK
 
 .NOTES
 This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
-Student ID: PSP-XXXX
+Student ID: PSP-3223
 
 Credits for :https://github.com/ahhh/PSSE/blob/master/Brute-Basic-Auth.ps1
 
