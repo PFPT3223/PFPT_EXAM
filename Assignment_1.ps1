@@ -34,8 +34,8 @@ The page on the target to brute force to authenticate, ex: http:\\127.0.0.1:80\a
 PS > Brute-Force-Basic-Authentication -IP 127.0.0.1 -UserList \wordlist\usernames.txt -PasswordList \wordlist\passwords.txt -Port 80 
 
 .LINK
-GITHUB LINK
-BLOGSPOT LINK
+
+https://pfpt3223.wordpress.com/2018/12/28/assignment-1/
 
 .NOTES
 This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
