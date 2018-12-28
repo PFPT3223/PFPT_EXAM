@@ -7,11 +7,13 @@ Simple Script used to Enumerate shares on a network.
 .DESCRIPTION
 This script will enumerate open shares in a network from a givin text file of PC names.
 
+.PARAMETER PC_names
+PC names to enumerate.
+
 .EXAMPLE
-PS C:\> Enumerate-Shares
+PS C:\> Enumerate-Shares -PC_names /pc_names.txt
 
 .LINK
-Github LINK
 https://pfpt3223.wordpress.com/2018/12/28/assignment-2/
 
 .NOTES
