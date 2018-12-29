@@ -20,9 +20,10 @@ PS C:\> Start-WebServer
 https://pfpt3223.wordpress.com/2018/12/28/assignment-7/
 
 .NOTES
-This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
-Student ID: PSP-3223
+This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers Certification Exam:
+http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
 
+Student ID: PSP-3223
 #>           
 [CmdletBinding()] Param( 
 
