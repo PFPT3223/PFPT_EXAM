@@ -17,7 +17,9 @@ PS C:\> Enumerate-Shares -PC_names /pc_names.txt
 https://pfpt3223.wordpress.com/2018/12/28/assignment-2/
 
 .NOTES
-This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
+This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers Certification Exam:
+http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
+
 Student ID: PSP-3223
 
 Credits for https://github.com/ahhh/PSSE/blob/master/Scan-Share-Permissions.ps1
