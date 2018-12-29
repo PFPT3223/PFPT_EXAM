@@ -29,7 +29,9 @@ PS C:\>  Transfer-File-Over-PSRemoting -Local_File "C:\Users\userX\Desktop\file.
 https://pfpt3223.wordpress.com/2018/12/28/assignment-6/
 
 .NOTES
-This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
+This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers Certification Exam:
+http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
+
 Student ID: PSP-3223
 
 #>
