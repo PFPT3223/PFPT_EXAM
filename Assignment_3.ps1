@@ -21,7 +21,9 @@ PS C:\>  Enumerate-Directories -USERNAME_ pc1 -path_ C:\windows\system32
 https://pfpt3223.wordpress.com/2018/12/28/assignment-3/
 
 .NOTES
-This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
+This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers Certification Exam:
+http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
+
 Student ID: PSP-3223
 
 #>  
