@@ -24,6 +24,9 @@ This script was created for completing the requirements of the SecurityTube Powe
 http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
 
 Student ID: PSP-3223
+
+Credit: https://github.com/ahhh/PSSE/blob/master/Run-Simple-WebServer.ps1
+
 #>           
 [CmdletBinding()] Param( 
 
