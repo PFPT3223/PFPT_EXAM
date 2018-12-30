@@ -22,7 +22,9 @@ http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
 
 Student ID: PSP-3223
 
-Credits for https://github.com/ahhh/PSSE/blob/master/Scan-Share-Permissions.ps1
+Credits for 
+https://github.com/ahhh/PSSE/blob/master/Scan-Share-Permissions.ps1
+https://social.technet.microsoft.com/Forums/en-US/f9edb8e4-2d0b-40f5-a4c4-ab28c87a46fd/shares-folder-permissions?forum=winserverpowershell
 #>
 
 	[CmdletBinding()] Param([Parameter(Mandatory = $true)][String]$PC_names)
