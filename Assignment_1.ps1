@@ -70,6 +70,7 @@ Credits for :https://github.com/ahhh/PSSE/blob/master/Brute-Basic-Auth.ps1
   $Passwords = Get-Content $PasswordList
   
   #nested loops, first one go through usernames and the second try all password with selected username
+  #Breaking loop: https://blogs.technet.microsoft.com/heyscriptingguy/2014/05/08/powershell-looping-advanced-break/
   :Usernames_loop foreach ($Username in $Usernames)
   {
     # Loops trying each passwords in the list
