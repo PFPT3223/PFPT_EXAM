@@ -34,6 +34,7 @@ http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
 
 Student ID: PSP-3223
 
+Credit: https://blog.ipswitch.com/use-powershell-copy-item-cmdlet-transfer-files-winrm
 #>
 
 
