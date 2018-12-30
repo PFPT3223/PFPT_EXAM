@@ -22,6 +22,10 @@ http://www.securitytube-training.com/online-courses/powershell-for-pentesters/
 
 Student ID: PSP-3223
 
+Credits for:
+https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
+https://github.com/samratashok/nishang/blob/master/Gather/Get-LSASecret.ps1
+https://github.com/samratashok/nishang/blob/master/Gather/Get-WebCredentials.ps1
 #>
 
 
