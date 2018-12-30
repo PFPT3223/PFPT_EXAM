@@ -30,7 +30,7 @@ https://pfpt3223.wordpress.com/2018/12/28/assignment-8/
 This script was created for completing the requirements of the SecurityTube PowerShell for Penetration Testers (PFPT)
 Student ID: PSP-3223
     
-    
+Credits for : https://github.com/s-xtar/SPSE/blob/master/Assignment-8/Exfiltrate-Dropbox.ps1
 #>
 
 
